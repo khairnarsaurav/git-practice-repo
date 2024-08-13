@@ -1,2 +1,4 @@
 # git-practice-repo
-Practice Purpose
+Practice PurposePractice Purpose
+this is my first repos
+
